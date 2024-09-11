@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.10.35027.167
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HashFunction", "HashFunction\HashFunction.csproj", "{701A3739-9897-4B15-B546-E55E9A8EDB76}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BitcoinBlock", "BitcoinBlock\BitcoinBlock.csproj", "{8855129F-17CC-42D3-8D3C-E361F67294C9}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{701A3739-9897-4B15-B546-E55E9A8EDB76}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{701A3739-9897-4B15-B546-E55E9A8EDB76}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{701A3739-9897-4B15-B546-E55E9A8EDB76}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{701A3739-9897-4B15-B546-E55E9A8EDB76}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8855129F-17CC-42D3-8D3C-E361F67294C9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8855129F-17CC-42D3-8D3C-E361F67294C9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8855129F-17CC-42D3-8D3C-E361F67294C9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8855129F-17CC-42D3-8D3C-E361F67294C9}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E1FC8585-6E23-41D0-A5FA-1EA319A5549E}
+	EndGlobalSection
+EndGlobal
